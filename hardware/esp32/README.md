@@ -13,4 +13,5 @@
 # Firmare
 
 [esptool.py](https://docs.espressif.com/projects/esptool/en/latest/esp32/installation.html)
+
 [upython](https://micropython.org/download/ESP32_GENERIC/)
